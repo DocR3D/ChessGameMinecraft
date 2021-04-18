@@ -1,0 +1,8 @@
+name: ChessPlugin
+main: MainPlugin
+version: 0.1
+api-version: 1.13
+commands:
+  chess:
+    description: chess
+    usage: /<command> player
